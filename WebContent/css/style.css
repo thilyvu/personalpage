@@ -458,7 +458,7 @@ h3.heading:after {
 
 /*-- blog -*/
 .blog {
-    background: url(../images/latop1.JPG) no-repeat 0px 0px;
+    background: url(../images/latop1.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
